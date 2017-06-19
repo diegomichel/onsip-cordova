@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-onsip",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chrwick/onsip-cordova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrwick/onsip-cordova/issues"
+  },
+  "homepage": "https://github.com/chrwick/onsip-cordova#readme"
+}
