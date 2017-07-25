@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/chrwick/onsip-cordova.git"
+    "url": "git+ssh://git@github.com/diegomichel/onsip-cordova.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chrwick/onsip-cordova/issues"
+    "url": "https://github.com/diegomichel/onsip-cordova/issues"
   },
-  "homepage": "https://github.com/chrwick/onsip-cordova#readme"
+  "homepage": "https://github.com/diegomichel/onsip-cordova#readme"
 }
